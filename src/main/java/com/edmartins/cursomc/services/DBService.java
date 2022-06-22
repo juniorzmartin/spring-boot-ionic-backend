@@ -102,7 +102,7 @@ public class DBService {
 			p9.getCategorias().addAll(Arrays.asList(cat6));
 			p10.getCategorias().addAll(Arrays.asList(cat6));
 			p11.getCategorias().addAll(Arrays.asList(cat7));
-			Produto p12 = new Produto(null, "Produto 12", 10.00);
+			Produto p12 = new Produto(null, "Teclado mec", 300.00);
 			Produto p13 = new Produto(null, "Produto 13", 10.00);
 			Produto p14 = new Produto(null, "Produto 14", 10.00);
 			Produto p15 = new Produto(null, "Produto 15", 10.00);
